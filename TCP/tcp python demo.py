@@ -8,4 +8,3 @@ s.listen(1)
 
 conn, addr = s.accept()
 conn.send(bytes('12,12','UTF-8'))
-conn.send(bytes('30,20','UTF-8'))
