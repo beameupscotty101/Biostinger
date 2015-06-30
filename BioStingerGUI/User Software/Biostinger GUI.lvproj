@@ -52,7 +52,6 @@
 			</Item>
 			<Item Name="2sComplement.vi" Type="VI" URL="../SubVIs/2sComplement.vi"/>
 			<Item Name="BasicDLL.dll" Type="Document" URL="../../Gener8 Software/Low Level USB/Low Level USB/BasicDLL.dll"/>
-			<Item Name="BasicDLL.dll" Type="Document" URL="../../../Gener8 Software/Low Level USB/Low Level USB/BasicDLL.dll"/>
 			<Item Name="Connect SCSI Passthrough.vi" Type="VI" URL="../../Gener8 Software/Low Level USB/Low Level USB/Connect SCSI Passthrough.vi"/>
 			<Item Name="Send Receive SPTI Command.vi" Type="VI" URL="../../Gener8 Software/Low Level USB/Low Level USB/Send Receive SPTI Command.vi"/>
 			<Item Name="SPTI Read10 Command.vi" Type="VI" URL="../../Gener8 Software/Low Level USB/Low Level USB/SPTI Read10 Command.vi"/>
