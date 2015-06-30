@@ -7,8 +7,5 @@ s.bind((TCP_IP, TCP_PORT))
 s.listen(1)
 
 conn, addr = s.accept()
-conn.send(bytes('hello','UTF-8'))
-conn.send(bytes('hello','UTF-8'))
-conn.send(bytes('world','UTF-8'))
-conn.send(bytes('stuff','UTF-8'))
-
+conn.send(bytes('12,12','UTF-8'))
+conn.send(bytes('30,20','UTF-8'))
