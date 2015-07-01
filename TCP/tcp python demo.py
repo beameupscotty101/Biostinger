@@ -7,4 +7,4 @@ s.bind((TCP_IP, TCP_PORT))
 s.listen(1)
 
 conn, addr = s.accept()
-conn.send(bytes('12,12','UTF-8'))
+conn.send(bytes('20,40','UTF-8'))
