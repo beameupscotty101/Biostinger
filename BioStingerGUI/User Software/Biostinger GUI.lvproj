@@ -11,6 +11,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Biostinger GUI.vi" Type="VI" URL="../Biostinger GUI.vi"/>
+		<Item Name="Error Reporter.vi" Type="VI" URL="../SubVIs/Error Reporter.vi"/>
+		<Item Name="Move Motors.vi" Type="VI" URL="../../../TCP/Move Motors.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -57,6 +59,7 @@
 			<Item Name="SPTI Read10 Command.vi" Type="VI" URL="../../Gener8 Software/Low Level USB/Low Level USB/SPTI Read10 Command.vi"/>
 			<Item Name="SPTI Write10 Command.vi" Type="VI" URL="../../Gener8 Software/Low Level USB/Low Level USB/SPTI Write10 Command.vi"/>
 			<Item Name="State_Enum.ctl" Type="VI" URL="../Controls/State_Enum.ctl"/>
+			<Item Name="String to Array Regex.vi" Type="VI" URL="../../../TCP/String to Array Regex.vi"/>
 			<Item Name="Write Status Int.vi" Type="VI" URL="../../Gener8 Software/Low Level USB/Low Level USB/Write Status Int.vi"/>
 			<Item Name="Write Status UInt.vi" Type="VI" URL="../../Gener8 Software/Low Level USB/Low Level USB/Write Status UInt.vi"/>
 		</Item>
