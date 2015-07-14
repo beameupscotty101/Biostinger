@@ -57,9 +57,9 @@
 			<Item Name="2sComplement.vi" Type="VI" URL="../SubVIs/2sComplement.vi"/>
 			<Item Name="BasicDLL.dll" Type="Document" URL="../../Gener8 Software/Low Level USB/Low Level USB/BasicDLL.dll"/>
 			<Item Name="Connect SCSI Passthrough.vi" Type="VI" URL="../../Gener8 Software/Low Level USB/Low Level USB/Connect SCSI Passthrough.vi"/>
-			<Item Name="Send Receive SPTI Command.vi" Type="VI" URL="../../Gener8 Software/Low Level USB/Low Level USB/Send Receive SPTI Command.vi"/>
+			<Item Name="Send Receive SPTI Command.vi" Type="VI" URL="../../../../BioStinger Program/LabView2014 Versions/BioStingerGUI/Gener8 Software/Low Level USB/Low Level USB/Send Receive SPTI Command.vi"/>
 			<Item Name="SPTI Read10 Command.vi" Type="VI" URL="../../Gener8 Software/Low Level USB/Low Level USB/SPTI Read10 Command.vi"/>
-			<Item Name="SPTI Write10 Command.vi" Type="VI" URL="../../Gener8 Software/Low Level USB/Low Level USB/SPTI Write10 Command.vi"/>
+			<Item Name="SPTI Write10 Command.vi" Type="VI" URL="../../../../BioStinger Program/LabView2014 Versions/BioStingerGUI/Gener8 Software/Low Level USB/Low Level USB/SPTI Write10 Command.vi"/>
 			<Item Name="State_Enum.ctl" Type="VI" URL="../Controls/State_Enum.ctl"/>
 			<Item Name="String to Array Regex.vi" Type="VI" URL="../SubVIs/String to Array Regex.vi"/>
 			<Item Name="Write Status Int.vi" Type="VI" URL="../../Gener8 Software/Low Level USB/Low Level USB/Write Status Int.vi"/>
